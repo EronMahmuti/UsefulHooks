@@ -1,7 +1,5 @@
 # UsefulHooks
 
-# App.tsx Component
-
 This repository contains the `App.tsx` component, which is a React component that utilizes custom hooks to manage window size and toggle functionality.
 
 ## Installation
